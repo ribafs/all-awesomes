@@ -1,5 +1,9 @@
 # Awesomes/Impressionantes
 
+Um Awesome dos awesomes
+
+Uma lista impressionante das listas impressionantes
+
 Listas impressionantes/awesomes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc. Tem até link para a criação de um sistema operacional.
 
 Fruto de uma boa pesquisa via Google.
