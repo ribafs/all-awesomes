@@ -50,6 +50,8 @@ https://github.com/elsewhencode/project-guidelines
 
 https://aggregatedawesome.com/awesome-css
 
+https://ribafs.github.io/javascript/
+
 https://aggregatedawesome.com/jquery
 
 https://aggregatedawesome.com/vuejs
