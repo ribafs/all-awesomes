@@ -24,7 +24,7 @@ https://github.com/TimothyDJones/awesome-laravel
 
 https://github.com/unnawut/awesome-laravel
 
-https://github.com/ribafs/awesome-laravel-2
+https://github.com/chiraggude/awesome-laravel
 
 https://awesomerank.github.io/lists/chiraggude/awesome-laravel.html
 
@@ -40,11 +40,9 @@ https://github.com/ribafs/lang
 
 https://github.com/ribafs/references
 
-https://github.com/ribafs/listamaravilhosaopensource
-
 https://projectworlds.in/laravel-projects/
 
-https://github.com/ribafs/Front-End-Checklist
+https://github.com/thedaviddias/Front-End-Checklist
 
 Essenciais links sobre JavaScript - https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9
 
@@ -72,15 +70,15 @@ https://github.com/ribafs/awesome - diversos
 
 https://github.com/ribafs/free-programming-books
 
-https://github.com/ribafs/awesome-php
+https://github.com/ziadoz/awesome-php
 
 https://github.com/ribafs/build-your-own-x
 
-https://github.com/ribafs/public-apis
+https://github.com/public-apis/public-apis
 
 https://github.com/ribafs/the-art-of-command-line
 
-https://github.com/ribafs/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap
 
 https://githublists.com/lists/ziadoz/awesome-php
 
