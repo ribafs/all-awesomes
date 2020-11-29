@@ -6,6 +6,8 @@ Fruto de uma boa pesquisa via Google.
 
 Se você está sem ideia de como criar um projeto gaste um tempinho navegando entre estes links e provavelmente será inspirado por alguns dos projetos citados. Assim como também existem muitos livros gratuitos sobre programação e muitos projetos criados com PHP, Laravel e outras linguagens e frameworks. Divirta-se.
 
+Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos ligados à programação, PHP e Laravel.
+
 ## Sobre Laravel
 
 http://artesaos.github.io/laravel-br-awesome/
