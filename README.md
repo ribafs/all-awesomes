@@ -38,6 +38,8 @@ https://github.com/ribafs/lang
 
 ## Outros assuntos
 
+https://github.com/ribafs/listamaravilhosaopensource
+
 https://projectworlds.in/laravel-projects/
 
 https://github.com/ribafs/Front-End-Checklist
