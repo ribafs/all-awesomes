@@ -1,12 +1,8 @@
-# Awesomes/Impressionantes
+# All Awesomes
 
-Um Awesome dos awesomes
+Todos os awesomes que encontrei
 
-Uma lista impressionante das listas impressionantes
-
-Listas impressionantes/awesomes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc. Tem até link para a criação de um sistema operacional.
-
-Fruto de uma boa pesquisa via Google.
+Uma lista impressionante das listas impressionantes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc. Tem até link para a criação de um sistema operacional.
 
 Se você está sem ideia de como criar um projeto gaste um tempinho navegando entre estes links e provavelmente será inspirado por alguns dos projetos citados. Assim como também existem muitos livros gratuitos sobre programação e muitos projetos criados com PHP, Laravel e outras linguagens e frameworks. Boa fonte de inspiração. Divirta-se.
 
