@@ -34,6 +34,8 @@ https://github.com/ribafs/lang
 
 ## Outros assuntos
 
+https://github.com/michaljuhas/SQL-training-advanced - Advanced SQL with MySQL & PostgreSQL
+
 https://github.com/ribafs/references
 
 https://projectworlds.in/laravel-projects/
