@@ -68,6 +68,8 @@ https://github.com/restoreddev/phpapprentice
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
+https://www.keycdn.com/blog/web-development-tools
+
 https://refactoring.guru/pt-br/design-patterns/php
 
 https://github.com/webfatorial/PadroesDeProjetoPHP
