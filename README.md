@@ -42,6 +42,8 @@ https://projectworlds.in/laravel-projects/
 
 https://github.com/thedaviddias/Front-End-Checklist
 
+https://github.com/botman/awesome-botman
+
 Essenciais links sobre JavaScript - https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9
 
 https://github.com/elsewhencode/project-guidelines
@@ -63,6 +65,12 @@ https://aggregatedawesome.com/nodejs
 https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
+
+https://designpatternsphp.readthedocs.io/en/latest/README.html
+
+https://refactoring.guru/pt-br/design-patterns/php
+
+https://github.com/webfatorial/PadroesDeProjetoPHP
 
 http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 
