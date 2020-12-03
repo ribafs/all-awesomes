@@ -64,6 +64,10 @@ https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
 
+http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
+
+https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
+
 https://aggregatedawesome.com/cake-php
 
 https://aggregatedawesome.com/
