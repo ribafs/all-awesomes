@@ -60,6 +60,8 @@ https://aggregatedawesome.com/nodejs
 
 https://aggregatedawesome.com/php
 
+https://github.com/restoreddev/phpapprentice
+
 https://aggregatedawesome.com/cake-php
 
 https://aggregatedawesome.com/
