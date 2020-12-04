@@ -70,7 +70,17 @@ https://github.com/restoreddev/phpapprentice
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
+## Tools
+https://github.com/jansenfelipe/cnpj-gratis
+
+https://github.com/jansenfelipe/cpf-gratis
+
+https://github.com/jansenfelipe/cep-gratis
+
+https://github.com/jansenfelipe/cidades-gratis
+
 https://www.keycdn.com/blog/web-development-tools
+
 
 https://refactoring.guru/pt-br/design-patterns/php
 
