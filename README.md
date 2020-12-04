@@ -8,7 +8,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos ligados à programação, PHP e Laravel.
 
-## Sobre Laravel
+
+## Laravel
+
+https://projectworlds.in/laravel-projects/
 
 http://artesaos.github.io/laravel-br-awesome/
 
@@ -32,6 +35,7 @@ https://libraries.io/github/acacha/awesome-laravel
 
 https://github.com/ribafs/lang
 
+
 ## Pacotes Laravel
 
 https://laravelarticle.com/laravel-user-activity
@@ -41,29 +45,32 @@ https://github.com/mateusjunges/laravel-time-helpers
 https://github.com/artesaos/seotools
 
 
-## Outros assuntos
-
-https://github.com/MunGell/awesome-for-beginners - A list of awesome beginners-friendly projects
-
-https://github.com/michaljuhas/SQL-training-advanced - Advanced SQL with MySQL & PostgreSQL
-
-https://github.com/ribafs/references
-
-https://projectworlds.in/laravel-projects/
+## Frontend
 
 https://github.com/thedaviddias/Front-End-Checklist
 
-https://github.com/botman/awesome-botman
 
-Essenciais links sobre JavaScript - https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9
+## HTML 5
 
-https://github.com/elsewhencode/project-guidelines
+https://github.com/diegocard/awesome-html5 - A curated list of awesome HTML5 resources
+
+
+## CSS
 
 https://aggregatedawesome.com/awesome-css
 
-https://ribafs.github.io/javascript/
+https://github.com/awesome-css-group/awesome-css
 
-https://aggregatedawesome.com/jquery
+
+## JavaScript
+
+https://github.com/sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things
+
+https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9 - Essenciais links sobre JavaScript
+
+https://github.com/elsewhencode/project-guidelines
+
+https://ribafs.github.io/javascript/
 
 https://aggregatedawesome.com/vuejs
 
@@ -73,13 +80,55 @@ https://aggregatedawesome.com/react
 
 https://aggregatedawesome.com/nodejs
 
+
+## jQuery
+
+https://aggregatedawesome.com/jquery
+
+
+## PHP
+
 https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
+https://github.com/ziadoz/awesome-php - A curated list of amazingly awesome PHP libraries, resources and shiny things
+
+https://github.com/neiesc/awesome-minimalist - A curated list of awesome minimalist frameworks (simple and lightweight)
+
+https://github.com/ziadoz/awesome-php - PHPAwe
+
+http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
+
+https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
+
+
+## SQL - MySQL e PostgreSQL
+
+https://github.com/michaljuhas/SQL-training-advanced - Advanced SQL with MySQL & PostgreSQL
+
+
+## CakePHP
+
+https://github.com/FriendsOfCake/awesome-cakephp - A curated list of amazingly awesome CakePHP plugins, resources and shiny things
+
+https://github.com/FriendsOfCake/awesome-cakephp resources and shiny things
+
+https://github.com/FriendsOfCake/awesome-cakephp - Relação de Plugins
+
+https://github.com/FriendsOfCake/awesome-cakephp - resources and shiny things
+
+https://github.com/FriendsOfCake/awesome-cakephp - A curated list of amazingly awesome CakePHP plugins, resources and shiny things
+
+https://getawesomeness.herokuapp.com/get/cakephp - CakePHP | getAwesomeness()
+
+https://aggregatedawesome.com/cake-php
+
+
 ## Tools
+
 https://github.com/jansenfelipe/cnpj-gratis
 
 https://github.com/jansenfelipe/cpf-gratis
@@ -90,38 +139,35 @@ https://github.com/jansenfelipe/cidades-gratis
 
 https://www.keycdn.com/blog/web-development-tools
 
+https://github.com/agarrharr/awesome-static-website-services
+
+https://github.com/leocavalcante/my-awesome-frontend - Links de Frontend do Leo
+
+https://github.com/sindresorhus/awesome-electron - Useful resources for creating apps with Electron
+
+https://fontawesome.com/icons - Icons | Font Awesome 
+
+https://mdbootstrap.com/docs/jquery/content/icons-list - Bootstrap free Font Awesome icons
+
+https://github.com/therebelrobot/awesome-bootstrap - Awesome - A curated list of amazing Bootstrap tools and themes
+
+https://github.com/fasouto/awesome-dataviz - A curated list of awesome data visualization libraries and resources
+
+https://github.com/tanure/youtube-br-desenvolvimento - Repositório de canais no Youtube BR sobre desenvolvimento
+
+https://github.com/aloisdg/awesome-regex - A curated collection of awesome Regex libraries, tools, frameworks and software
+
+## Padrões de Projeto
 
 https://refactoring.guru/pt-br/design-patterns/php
 
 https://github.com/webfatorial/PadroesDeProjetoPHP
 
-http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
-
-https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
-
-https://aggregatedawesome.com/cake-php
-
-https://aggregatedawesome.com/
-
-https://github.com/ribafs/awesome - diversos
-
-https://github.com/ribafs/free-programming-books
-
-https://github.com/ziadoz/awesome-php
-
-https://github.com/ribafs/build-your-own-x
-
-https://github.com/public-apis/public-apis
-
-https://github.com/ribafs/the-art-of-command-line
-
-https://github.com/kamranahmedse/developer-roadmap
-
-https://githublists.com/lists/ziadoz/awesome-php
 
 ## Catálogo de profissionais
 
 https://www.upwork.com/
+
 
 ## Bancos de dados de imagens
 
@@ -133,3 +179,25 @@ https://pixabay.com/photos/
 
 https://pixabay.com/images/search/background/
 
+
+## Diversos
+
+https://github.com/MunGell/awesome-for-beginners - A list of awesome beginners-friendly projects
+
+https://github.com/botman/awesome-botman
+
+https://aggregatedawesome.com/
+
+https://github.com/ribafs/free-programming-books
+
+https://github.com/ziadoz/awesome-php
+
+https://github.com/ribafs/build-your-own-x - Faça você mesmo (tecnologia, até um sistema operacional)
+
+https://github.com/public-apis/public-apis
+
+https://github.com/ribafs/the-art-of-command-line
+
+https://github.com/kamranahmedse/developer-roadmap - Roadmap to becoming a web developer in 2020 
+
+https://github.com/camilatigre/listamaravilhosaopensource
