@@ -32,6 +32,15 @@ https://libraries.io/github/acacha/awesome-laravel
 
 https://github.com/ribafs/lang
 
+## Pacotes Laravel
+
+https://laravelarticle.com/laravel-user-activity
+
+https://github.com/mateusjunges/laravel-time-helpers
+
+https://github.com/artesaos/seotools
+
+
 ## Outros assuntos
 
 https://github.com/MunGell/awesome-for-beginners - A list of awesome beginners-friendly projects
