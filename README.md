@@ -88,10 +88,6 @@ https://aggregatedawesome.com/jquery
 
 ## PHP
 
-https://github.com/PHPSP/php-the-right-way - PHP do jeito certo
-
-http://br.phptherightway.com/
-
 https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
@@ -107,6 +103,17 @@ https://github.com/ziadoz/awesome-php - PHPAwe
 http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 
 https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
+
+
+## Padrões de Projeto em PHP
+
+https://refactoring.guru/pt-br/design-patterns/php
+
+https://github.com/webfatorial/PadroesDeProjetoPHP
+
+https://github.com/PHPSP/php-the-right-way - PHP do jeito certo
+
+http://br.phptherightway.com/
 
 
 ## SQL - MySQL e PostgreSQL
@@ -160,12 +167,6 @@ https://github.com/fasouto/awesome-dataviz - A curated list of awesome data visu
 https://github.com/tanure/youtube-br-desenvolvimento - Repositório de canais no Youtube BR sobre desenvolvimento
 
 https://github.com/aloisdg/awesome-regex - A curated collection of awesome Regex libraries, tools, frameworks and software
-
-## Padrões de Projeto
-
-https://refactoring.guru/pt-br/design-patterns/php
-
-https://github.com/webfatorial/PadroesDeProjetoPHP
 
 
 ## Catálogo de profissionais
