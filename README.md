@@ -88,6 +88,10 @@ https://aggregatedawesome.com/jquery
 
 ## PHP
 
+https://github.com/PHPSP/php-the-right-way - PHP do jeito certo
+
+http://br.phptherightway.com/
+
 https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
