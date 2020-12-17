@@ -143,6 +143,34 @@ https://aggregatedawesome.com/cake-php
 
 https://github.com/wsargent/docker-cheat-sheet
 
+https://github.com/eon01/DockerCheatSheet
+
+https://github.com/brainhack101/docker-cheat-sheet
+
+https://github.com/gliterd/docker-cheat-sheet
+
+https://github.com/sudheerj/docker-cheat-sheet
+
+https://github.com/drminnaar/cheatsheets/blob/master/docker-cheatsheet.md
+
+https://github.com/therandomsecurityguy/docker-cheat-sheet
+
+https://github.com/WSMathias/docker-cheat-sheet
+
+https://gist.github.com/martinbuberl/5de2effea36e5a2c2d5c6ef394d13467
+
+https://gist.github.com/bradtraversy/89fad226dc058a41b596d586022a9bd3
+
+https://gist.github.com/Marak/63f437e3946805f6473a
+
+https://redhatspain.com/cheatsheets/
+
+https://www.bogotobogo.com/DevOps/Docker/Docker-Cheat-Sheet.php
+
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+http://dockercheatsheet.painlessdocker.com/
+
 ## Tools
 
 https://github.com/jansenfelipe/cnpj-gratis
