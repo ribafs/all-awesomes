@@ -175,6 +175,8 @@ https://www.threatstack.com/blog/50-useful-docker-tutorials-for-it-professionals
 
 ## Tools
 
+https://github.com/JefMari/awesome-wysiwyg
+
 https://github.com/jansenfelipe/cnpj-gratis
 
 https://github.com/jansenfelipe/cpf-gratis
