@@ -109,6 +109,8 @@ https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
+https://designpatternsphp.readthedocs.io/pt_BR/latest/README.html
+
 https://refactoring.guru/pt-br/design-patterns/php
 
 https://github.com/webfatorial/PadroesDeProjetoPHP
