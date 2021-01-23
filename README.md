@@ -1,6 +1,6 @@
 # All Awesomes
 
-Todos os awesomes que encontrei
+Todos os awesomes que encontrei, mas alguns favoritos que precisam estar aqui
 
 Uma lista impressionante das listas impressionantes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc. Tem até link para a criação de um sistema operacional.
 
