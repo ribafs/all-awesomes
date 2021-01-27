@@ -19,7 +19,7 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [## Segurança](#Segurança)
 - [## Laravel](#Laravel)
 - [## Frontend](#Frontend)
-- [## HTML 5](#HTML)
+- [## HTML 5](#HTML5)
 - [## CSS](#CSS)
 - [## JavaScript](#JavaScript)
 - [## jQuery](#jQuery)
@@ -150,7 +150,7 @@ https://github.com/cyrilbois/Front-End-Web-Development-Resources
 https://github.com/thedaviddias/Front-End-Checklist
 
 
-## HTML 5
+## HTML5
 
 https://github.com/diegocard/awesome-html5 - A curated list of awesome HTML5 resources
 
