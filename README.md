@@ -19,7 +19,7 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [## Segurança](#Segurança)
 - [## Laravel](#Laravel)
 - [## Frontend](#Frontend)
-- [## HTML 5](#HTML5)
+- [## HTML 5](#HTML)
 - [## CSS](#CSS)
 - [## JavaScript](#JavaScript)
 - [## jQuery](#jQuery)
