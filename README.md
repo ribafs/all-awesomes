@@ -24,7 +24,7 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [## JavaScript](#JavaScript)
 - [## jQuery](#jQuery)
 - [## PHP](#PHP)
-- [## Padrões de Projeto](#Padrões)
+- [## Padrões de Projeto](#Padr)
 - [## SQL - MySQL e PostgreSQL](#SQL)
 - [## CakePHP](#CakePHP)
 - [## Docker](#Docker)
