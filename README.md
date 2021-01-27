@@ -18,7 +18,6 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [## API](#API)
 - [## Segurança](#Segurança)
 - [## Laravel](#Laravel)
-- [## Pacotes Laravel](#Pacotes)
 - [## Frontend](#Frontend)
 - [## HTML 5](#HTML5)
 - [## CSS](#CSS)
@@ -124,9 +123,6 @@ https://aggregatedawesome.com/laravel
 https://libraries.io/github/acacha/awesome-laravel
 
 https://github.com/ribafs/lang
-
-
-## Pacotes Laravel
 
 https://laravelarticle.com/laravel-user-activity
 
