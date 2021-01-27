@@ -8,6 +8,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos ligados à programação, PHP e Laravel.
 
+## Diversos
+
+https://github.com/cyrilbois/awesome-bookmarks
+
 ## Segurança
 
 https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior referência em segurança na web
