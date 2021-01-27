@@ -15,7 +15,23 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 ## Índice
 
 - [## Diversos](#Diversos)
+- [## API](#API)
+- [## Segurança](#Segurança)
 - [## Laravel](#Laravel)
+- [## Pacotes Laravel](#PacotesLaravel)
+- [## Frontend](#Frontend)
+- [## HTML 5](#HTML5)
+- [## CSS](#CSS)
+- [## JavaScript](#JavaScript)
+- [## jQuery](#jQuery)
+- [## PHP](#PHP)
+- [## Padrões de Projeto](#Padrões)
+- [## SQL - MySQL e PostgreSQL](#SQL)
+- [## CakePHP](#CakePHP)
+- [## Docker](#Docker)
+- [## Tools](#Tools)
+- [## Catálogo de profissionais](#Catálogo)
+- [## Bancos de dados de imagens](#Bancos)
 
 ## Diversos
 
@@ -83,7 +99,7 @@ https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior r
 
 https://github.com/cyrilbois/Security_list
 
-## Laravel 
+## Laravel
 
 https://projectworlds.in/laravel-projects/
 
