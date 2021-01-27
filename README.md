@@ -24,12 +24,12 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [JavaScript](#JavaScript)
 - [jQuery](#jQuery)
 - [PHP](#PHP)
-- [Padrões de Projeto](#Padrões)
+- [Padrões de Projeto](#Padroes)
 - [SQL - MySQL e PostgreSQL](#SQL)
 - [CakePHP](#CakePHP)
 - [Docker](#Docker)
 - [Tools](#Tools)
-- [Catálogo de profissionais](#Catálogo)
+- [Catálogo de profissionais](#Catalogo)
 - [Bancos de dados de imagens](#Bancos)
 
 https://github.com/areknawo/awesome-productivity-software
@@ -203,7 +203,7 @@ http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
 
 
-## Padrões de Projeto
+## Padroes de Projeto
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
@@ -334,7 +334,7 @@ https://github.com/tanure/youtube-br-desenvolvimento - Repositório de canais no
 https://github.com/aloisdg/awesome-regex - A curated collection of awesome Regex libraries, tools, frameworks and software
 
 
-## Catálogo de profissionais
+## Catalogo de profissionais
 
 https://www.upwork.com/
 
