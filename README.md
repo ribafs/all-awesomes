@@ -8,15 +8,71 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos ligados à programação, PHP e Laravel.
 
+## Sugestão
+
+**Tecle Ctrl+F para encontrar algo com mais facildiade.**
+
 ## Diversos
+
+https://github.com/cyrilbois/awesome-json
+
+https://github.com/cyrilbois/bookmarks
+
+https://github.com/cyrilbois/Best-websites-a-programmer-should-visit
+
+https://github.com/cyrilbois/awesome-sqlite
+
+https://github.com/cyrilbois/Awesome (windows)
+
+https://github.com/cyrilbois/awesome-tech
+
+https://github.com/cyrilbois/the-book-of-secret-knowledge
+
+https://github.com/cyrilbois/AwesomeCSV
 
 https://github.com/cyrilbois/awesome-bookmarks
 
 https://fiddles.io/
 
+https://github.com/cyrilbois/awesome-network-automation
+
+https://github.com/cyrilbois/awesome-python
+
+https://github.com/cyrilbois/my-links
+
+https://github.com/MunGell/awesome-for-beginners - A list of awesome beginners-friendly projects
+
+https://github.com/botman/awesome-botman
+
+https://aggregatedawesome.com/
+
+https://github.com/ribafs/free-programming-books
+
+https://github.com/ziadoz/awesome-php
+
+https://github.com/ribafs/build-your-own-x - Faça você mesmo (tecnologia, até um sistema operacional)
+
+https://github.com/ribafs/the-art-of-command-line
+
+https://github.com/kamranahmedse/developer-roadmap - Roadmap to becoming a web developer in 2020 
+
+https://github.com/camilatigre/listamaravilhosaopensource
+
+## API
+
+https://github.com/cyrilbois/Awesome-Api-Management-Tools
+
+https://github.com/cyrilbois/api-development-tools
+
+https://github.com/cyrilbois/awesome-api-tools
+
+https://github.com/public-apis/public-apis
+
 ## Segurança
 
 https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior referência em segurança na web
+
+https://github.com/cyrilbois/Security_list
 
 ## Laravel
 
@@ -55,6 +111,20 @@ https://github.com/artesaos/seotools
 
 
 ## Frontend
+
+https://github.com/cyrilbois/useful-frontend
+
+https://github.com/cyrilbois/Web-Design-Resources
+
+https://github.com/cyrilbois/frontend-tools
+
+https://frontendmasters.com/books/front-end-handbook/2019/
+
+https://github.com/cyrilbois/List-of-Free-Online-Tools-For-Front-end-Web-Development
+
+https://github.com/cyrilbois/resources-3
+
+https://github.com/cyrilbois/Front-End-Web-Development-Resources
 
 https://github.com/thedaviddias/Front-End-Checklist
 
@@ -133,6 +203,8 @@ http://br.phptherightway.com/
 
 https://github.com/michaljuhas/SQL-training-advanced - Advanced SQL with MySQL & PostgreSQL
 
+https://github.com/cyrilbois/awesome-sql
+
 
 ## CakePHP
 
@@ -186,6 +258,32 @@ https://www.threatstack.com/blog/50-useful-docker-tutorials-for-it-professionals
 
 ## Tools
 
+https://github.com/cyrilbois/awesome-links
+
+https://github.com/cyrilbois/awesome-web-dev-resources
+
+https://github.com/cyrilbois/resources-2
+
+https://github.com/cyrilbois/resources-1
+
+https://github.com/cyrilbois/resources
+
+https://github.com/cyrilbois/useful-tools
+
+https://github.com/cyrilbois/useful-dev-tools
+
+https://github.com/cyrilbois/development-resources
+
+https://github.com/cyrilbois/Useful-Softwares-Tools-list
+
+https://github.com/cyrilbois/awesome-rest
+
+https://github.com/cyrilbois/awesome-devtools
+
+https://github.com/cyrilbois/awesome-online-ide
+
+https://github.com/cyrilbois/awesome-web-online-tools
+
 https://github.com/JefMari/awesome-wysiwyg
 
 https://github.com/jansenfelipe/cnpj-gratis
@@ -232,25 +330,3 @@ https://pixabay.com/photos/
 
 https://pixabay.com/images/search/background/
 
-
-## Diversos
-
-https://github.com/MunGell/awesome-for-beginners - A list of awesome beginners-friendly projects
-
-https://github.com/botman/awesome-botman
-
-https://aggregatedawesome.com/
-
-https://github.com/ribafs/free-programming-books
-
-https://github.com/ziadoz/awesome-php
-
-https://github.com/ribafs/build-your-own-x - Faça você mesmo (tecnologia, até um sistema operacional)
-
-https://github.com/public-apis/public-apis
-
-https://github.com/ribafs/the-art-of-command-line
-
-https://github.com/kamranahmedse/developer-roadmap - Roadmap to becoming a web developer in 2020 
-
-https://github.com/camilatigre/listamaravilhosaopensource
