@@ -12,6 +12,8 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 
 https://github.com/cyrilbois/awesome-bookmarks
 
+https://fiddles.io/
+
 ## Segurança
 
 https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior referência em segurança na web
