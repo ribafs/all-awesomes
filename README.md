@@ -14,6 +14,8 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 
 ## Diversos
 
+https://github.com/areknawo/awesome-productivity-software
+
 https://github.com/pazguille/offline-first
 
 https://github.com/cyrilbois/awesome-json
