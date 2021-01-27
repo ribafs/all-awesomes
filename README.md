@@ -24,7 +24,7 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [JavaScript](#JavaScript)
 - [jQuery](#jQuery)
 - [PHP](#PHP)
-- [Padrões de Projeto](#Padroes)
+- [Padrões de Projeto](#padroes)
 - [SQL - MySQL e PostgreSQL](#SQL)
 - [CakePHP](#CakePHP)
 - [Docker](#Docker)
@@ -203,7 +203,7 @@ http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
 
 
-## Padroes de Projeto
+<h4 id="padroes">Padroes de Projeto</h4>
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
