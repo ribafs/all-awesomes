@@ -6,11 +6,12 @@ Uma lista impressionante das listas impressionantes de links de projetos, ideias
 
 Se você está sem ideia de como criar um projeto gaste um tempinho navegando entre estes links e provavelmente será inspirado por alguns dos projetos citados. Assim como também existem muitos livros gratuitos sobre programação e muitos projetos criados com PHP, Laravel e outras linguagens e frameworks. Boa fonte de inspiração. Divirta-se.
 
-Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos ligados à programação, PHP e Laravel.
+Cada link destes abaixo tem diversos links sobre vários assuntos ligados à programação, PHP e Laravel, etc.
 
-## Sugestão
+## Sugestões
 
-**Tecle Ctrl+F para encontrar algo com mais facildiade.**
+- 1 - Percorra os links que te interessarem nesta página num dia em que não esteja muito ocupado, para assim poder aproveitar toda a riqueza de informações
+- 2 - Tecle Ctrl+F para encontrar algo com mais facildiade
 
 ## Índice
 
