@@ -1,12 +1,10 @@
 # All Awesomes
 
-Todos os awesomes que encontrei, mas alguns favoritos que precisam estar aqui
+Todos os awesomes que encontrei, mas alguns favoritos que precisam estar aqui. Gostei tanto da ideia que estou atualizando com frequẽncia.
 
-Uma lista impressionante das listas impressionantes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc. Tem até link para a criação de um sistema operacional.
+Uma lista impressionante/awesome das listas impressionantes de links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, redes, linux, hardware, etc. Tem até link para a criação de um sistema operacional.
 
 Se você está sem ideia de como criar um projeto gaste um tempinho navegando entre estes links e provavelmente será inspirado por alguns dos projetos citados. Assim como também existem muitos livros gratuitos sobre programação e muitos projetos criados com PHP, Laravel e outras linguagens e frameworks. Boa fonte de inspiração. Divirta-se.
-
-Cada link destes abaixo tem diversos links sobre vários assuntos ligados à programação, PHP e Laravel, etc.
 
 ## Sugestões
 
