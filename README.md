@@ -32,6 +32,9 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
 
+
+## Diversos
+
 https://github.com/areknawo/awesome-productivity-software
 
 https://github.com/pazguille/offline-first
