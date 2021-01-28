@@ -203,7 +203,7 @@ http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
 
 
-<h4 id="padroes">Padroes de Projeto</h4>
+<h3 id="padroes">Padroes de Projeto</h3>
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
