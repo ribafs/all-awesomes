@@ -25,12 +25,12 @@ Cada link destes abaixo tem uma enormidade de links sobre diversos assuntos liga
 - [jQuery](#jQuery)
 - [PHP](#PHP)
 - [Padrões de Projeto](#padroes)
-- [SQL - MySQL e PostgreSQL](#SQL)
+- [SQL - MySQL e PostgreSQL](#sql)
 - [CakePHP](#CakePHP)
 - [Docker](#Docker)
 - [Tools](#Tools)
-- [Catálogo de profissionais](#Catalogo)
-- [Bancos de dados de imagens](#Bancos)
+- [Catálogo de profissionais](#catalogo)
+- [Bancos de dados de imagens](#bancos)
 
 https://github.com/areknawo/awesome-productivity-software
 
@@ -218,7 +218,7 @@ https://github.com/PHPSP/php-the-right-way - PHP do jeito certo
 http://br.phptherightway.com/
 
 
-## SQL - MySQL e PostgreSQL
+<h3 id="sql">SQL - MySQL e PostgreSQL</h3>
 
 https://github.com/michaljuhas/SQL-training-advanced - Advanced SQL with MySQL & PostgreSQL
 
@@ -334,12 +334,12 @@ https://github.com/tanure/youtube-br-desenvolvimento - Repositório de canais no
 https://github.com/aloisdg/awesome-regex - A curated collection of awesome Regex libraries, tools, frameworks and software
 
 
-## Catalogo de profissionais
+<h3 id="catalogo"> Catalogo de profissionais</h3
 
 https://www.upwork.com/
 
 
-## Bancos de dados de imagens
+<h3 id="bancos">Bancos de dados de imagens</h3>
 
 ### catálogo com busca
 
