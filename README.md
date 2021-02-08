@@ -34,6 +34,8 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Diversos
 
+https://tiny-helpers.dev/
+
 https://github.com/trimstray/the-book-of-secret-knowledge
 
 https://github.com/areknawo/awesome-productivity-software
