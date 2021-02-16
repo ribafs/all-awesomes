@@ -14,6 +14,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 ## Índice
 
 - [Diversos](#Diversos)
+- [Cursos Gratuitos e Pagos](#Cursos)
 - [API](#API)
 - [Segurança](#Segurança)
 - [Laravel](#Laravel)
@@ -85,6 +86,10 @@ https://github.com/ribafs/the-art-of-command-line
 https://github.com/kamranahmedse/developer-roadmap - Roadmap to becoming a web developer in 2020 
 
 https://github.com/camilatigre/listamaravilhosaopensource
+
+## Cursos Gratuitos e Pagos
+
+https://pt-br.classpert.com/
 
 ## API
 
