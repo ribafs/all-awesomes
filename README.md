@@ -35,7 +35,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Ideias
 
-**Ideias para aplicativos**
+**Ideias para projetos de programação**
 
 https://github.com/florinpop17/app-ideas
 
@@ -44,6 +44,22 @@ https://nevonprojects.com/php-projects-topics-ideas/
 https://nevonprojects.com/ - Diversas áreas
 
 https://codeshoppy.com/index.html
+
+https://www.phptpoint.com/projects/php-project-list/
+
+https://www.kashipara.com/project/topics/latest_php-project-ideas_2
+
+https://www.kashipara.com/project/category/download_php-project-source-code_2
+
+https://freeprojectsforall.com/best-php-project-ideas-2018/
+
+http://www.projectjugad.com/php-project-ideas/
+
+https://phpgurukul.com/
+
+https://phpgurukul.com/php-projects-free-downloads/
+
+https://www.freeprojectz.com/projects/php-project-ideas
 
 ## Diversos
 
