@@ -39,6 +39,8 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 https://github.com/florinpop17/app-ideas
 
+https://nevonprojects.com/php-projects-topics-ideas/
+
 ## Diversos
 
 https://tiny-helpers.dev/
