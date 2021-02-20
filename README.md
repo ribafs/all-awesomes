@@ -13,7 +13,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
-- [Ideias para aplicativos]($Ideias)
+- [Ideias para aplicativos](#Ideias)
 - [Diversos](#Diversos)
 - [Cursos Gratuitos e Pagos](#Cursos)
 - [API](#API)
