@@ -61,6 +61,8 @@ https://phpgurukul.com/php-projects-free-downloads/
 
 https://www.freeprojectz.com/projects/php-project-ideas
 
+https://github.com/sindresorhus/awesome
+
 ## Diversos
 
 https://tiny-helpers.dev/
