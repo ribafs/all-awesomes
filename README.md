@@ -33,7 +33,9 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
 
-## Ideias para aplicativos
+## Ideias
+
+**Ideias para aplicativos**
 
 https://github.com/florinpop17/app-ideas
 
