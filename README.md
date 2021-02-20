@@ -41,6 +41,8 @@ https://github.com/florinpop17/app-ideas
 
 https://nevonprojects.com/php-projects-topics-ideas/
 
+https://nevonprojects.com/ - Diversas áreas
+
 ## Diversos
 
 https://tiny-helpers.dev/
