@@ -43,6 +43,8 @@ https://nevonprojects.com/php-projects-topics-ideas/
 
 https://nevonprojects.com/ - Diversas áreas
 
+https://codeshoppy.com/index.html
+
 ## Diversos
 
 https://tiny-helpers.dev/
