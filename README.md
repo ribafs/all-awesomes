@@ -37,6 +37,8 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 **Ideias para projetos de programação**
 
+https://www.codewars.com
+
 https://github.com/florinpop17/app-ideas
 
 https://nevonprojects.com/php-projects-topics-ideas/
