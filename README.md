@@ -121,6 +121,8 @@ https://github.com/camilatigre/listamaravilhosaopensource
 
 ## Cursos Gratuitos e Pagos
 
+https://jornadadodev.com.br/cursos
+
 https://pt-br.classpert.com/
 
 ## API
