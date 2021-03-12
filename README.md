@@ -13,6 +13,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
+- [Conversão](#Conversão)
 - [Ideias para Projetos](#Ideias)
 - [Diversos](#Diversos)
 - [Cursos Gratuitos e Pagos](#Cursos)
@@ -32,6 +33,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Tools](#Tools)
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
+
+## Conversão
+
+https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
 ## Ideias
 
