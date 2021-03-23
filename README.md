@@ -42,6 +42,8 @@ https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e 
 
 **Ideias para projetos de programação**
 
+https://gist.github.com/ribafs/0303499618d4819dbe88e667ef054a1b 
+
 https://www.codewars.com
 
 https://github.com/florinpop17/app-ideas
