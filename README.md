@@ -74,6 +74,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+http://cep.la/baixar - CEPs de até 2018
+
 https://tiny-helpers.dev/
 
 https://github.com/trimstray/the-book-of-secret-knowledge
