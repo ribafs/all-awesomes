@@ -13,6 +13,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
+- [Vagas](#Vagas)
 - [Conversão](#Conversão)
 - [Ideias para Projetos](#Ideias)
 - [Diversos](#Diversos)
@@ -33,6 +34,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Tools](#Tools)
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
+
+## Vagas
+
+https://github.com/backend-br/vagas
 
 ## Conversão
 
