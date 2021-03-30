@@ -39,6 +39,16 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 https://github.com/backend-br/vagas
 
+https://github.com/frontendbr/vagas
+
+https://github.com/backend-br/vagas/issues
+
+https://github.com/qa-brasil/vagas
+
+https://github.com/brasil-php/vagas/issues
+
+https://github.com/topics/vagas-para-desenvolvedores
+
 ## Conversão
 
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
