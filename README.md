@@ -89,6 +89,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+https://github.com/nomanoff/emoji-shortcodes-for-markdown - Emojis para o Github README.md
+
 http://cep.la/baixar - CEPs de até 2018
 
 https://tiny-helpers.dev/
