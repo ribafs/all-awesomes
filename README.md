@@ -35,6 +35,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
 
+## Games
+
+https://project-awesome.org/leereilly/games
+
 ## Vagas
 
 https://github.com/backend-br/vagas
