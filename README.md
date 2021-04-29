@@ -93,6 +93,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+https://github.com/jagracey/Awesome-Unicode - A curated list of delightful Unicode tidbits, packages and resources. 
+
 https://github.com/github/gitignore - A collection of useful .gitignore templates
 
 https://github.com/the-benchmarker/web-frameworks - Benchmark de frameworks web
