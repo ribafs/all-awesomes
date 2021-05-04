@@ -179,6 +179,8 @@ https://github.com/cyrilbois/Security_list
 
 ## Laravel
 
+https://github.com/alexeymezenin/laravel-best-practices
+
 https://projectworlds.in/laravel-projects/
 
 http://artesaos.github.io/laravel-br-awesome/
