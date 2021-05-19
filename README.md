@@ -179,6 +179,8 @@ https://github.com/cyrilbois/Security_list
 
 ## Laravel
 
+https://gist.github.com/msurguy/8590765 - List of open source projects made with Laravel
+
 https://github.com/alexeymezenin/laravel-best-practices
 
 https://projectworlds.in/laravel-projects/
