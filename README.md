@@ -61,6 +61,10 @@ https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e 
 
 **Ideias para projetos de programação**
 
+https://blog.fabricadeaplicativos.com.br/empreendedorismo/10-dicas-para-entrar-no-bilionario-mundo-dos-aplicativos/
+
+https://businessideas.com.br/ideias-de-aplicativos/
+
 https://gist.github.com/ribafs/0303499618d4819dbe88e667ef054a1b 
 
 https://www.codewars.com
