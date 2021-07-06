@@ -36,10 +36,6 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Bancos de dados de imagens](#bancos)
 - [Criação de Jogos Mobile](#Criação)
 
-## Games
-
-https://project-awesome.org/leereilly/games
-
 ## Vagas
 
 https://github.com/backend-br/vagas
@@ -696,6 +692,8 @@ https://pixabay.com/photos/
 https://pixabay.com/images/search/background/
 
 ## Criação de Jogos Mobile
+
+https://project-awesome.org/leereilly/games
 
 Scratch - Scratch 1.4 download
 - https://scratch.mit.edu/scratch_1.4/#installation
