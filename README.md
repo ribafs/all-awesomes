@@ -58,6 +58,8 @@ https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e 
 
 **Ideias para projetos de programação**
 
+https://blog.guilhermebranco.com.br/quanto-cobrar/
+
 https://gist.github.com/msurguy/8590765 - Lista de projetos open source com Laravel
 
 https://blog.fabricadeaplicativos.com.br/empreendedorismo/10-dicas-para-entrar-no-bilionario-mundo-dos-aplicativos/
