@@ -54,7 +54,9 @@ https://github.com/topics/vagas-para-desenvolvedores
 
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
-## Ideias - Ideias para projetos de programação
+## Ideias
+
+**Ideias para projetos de programação**
 
 https://github.com/florinpop17/app-ideas - Ideias para projetos iniciante, intermediário e avançado
 
