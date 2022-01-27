@@ -61,6 +61,7 @@ https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e 
 https://github.com/florinpop17/app-ideas - Ideias para projetos iniciante, intermediário e avançado
 
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+
 https://github.com/florinpop17/100Days100Projects
 
 https://blog.guilhermebranco.com.br/quanto-cobrar/
