@@ -59,6 +59,8 @@ https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e 
 
 **Ideias para projetos de programação**
 
+https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+
 https://github.com/florinpop17/app-ideas - Ideias para projetos iniciante, intermediário e avançado
 
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
