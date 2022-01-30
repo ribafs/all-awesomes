@@ -25,6 +25,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [HTML 5](#HTML5)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
+- [React](#React)
 - [jQuery](#jQuery)
 - [PHP](#PHP)
 - [Padrões de Projeto](#padroes)
@@ -304,6 +305,9 @@ https://aggregatedawesome.com/react
 
 https://aggregatedawesome.com/nodejs
 
+## React
+
+https://github.com/enaqx/awesome-react
 
 ## jQuery
 
