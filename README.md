@@ -283,10 +283,16 @@ https://github.com/awesome-css-group/awesome-css
 
 ## JavaScript
 
+- Aprendendo a programar jogando - https://www.themuse.com/advice/15-games-thatll-teach-you-how-to-code-that-also-happen-to-be-really-fun
+
 - https://github.com/proyecto26/awesome-jsgames
+
 - JS: A forma certa https://jstherightway.org/pt-br/
+
 - https://jsfiddle.net/
+
 - https://codepen.io/#
+
 - https://codesandbox.io/s/vanilla
 
 https://github.com/sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things
@@ -347,7 +353,6 @@ https://aggregatedawesome.com/jquery
 - Learn PHP - Free Interactive PHP Tutorial - http://www.learn-php.org/
 
 - PHP Best Practices: a short, practical guide for common and confusing PHP tasks - https://phpbestpractices.org/
-
 
 ## Bons cursos grátis, alguns com certificado
 
