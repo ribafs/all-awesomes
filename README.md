@@ -283,10 +283,8 @@ https://github.com/awesome-css-group/awesome-css
 
 ## JavaScript
 
-JS: A forma certa
-
-https://jstherightway.org/pt-br/
-
+- https://github.com/proyecto26/awesome-jsgames
+- JS: A forma certa https://jstherightway.org/pt-br/
 - https://jsfiddle.net/
 - https://codepen.io/#
 - https://codesandbox.io/s/vanilla
