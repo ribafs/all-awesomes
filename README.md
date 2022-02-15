@@ -529,7 +529,6 @@ https://www.youtube.com/watch?v=Tw2zsRhItXA&list=PLXik_5Br-zO-oJvHLxSkC3Vd4En0KG
 - Receita Federal - Consulta Restituição IRPF - http://servicos.receita.fazenda.gov.br/Servicos/consrest/Atual.app/paginas/mobile/restituicaoMobi.asp
 - Texto para Audio - /mecdaisy - http://www.intervox.nce.ufrj.br/mecdaisy/
 
-
 https://aggregatedawesome.com/php
 
 https://github.com/restoreddev/phpapprentice
@@ -548,6 +547,8 @@ https://www.academia.edu/9136301/Apostila_do_Curso_de_PHP_Orientado_a_Objetos
 
 
 <h3 id="padroes">Padroes de Projeto</h3>
+
+https://refactoring.guru/pt-br/design-patterns
 
 https://designpatternsphp.readthedocs.io/en/latest/README.html
 
