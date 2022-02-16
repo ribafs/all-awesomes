@@ -43,7 +43,7 @@ https://github.com/backend-br/vagas
 
 https://github.com/frontendbr/vagas
 
-https://github.com/backend-br/vagas/issues
+https://github.com/backend-br/vagas 
 
 https://github.com/qa-brasil/vagas
 
