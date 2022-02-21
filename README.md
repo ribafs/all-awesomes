@@ -25,6 +25,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [HTML 5](#HTML5)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
+- [Games](Games)
 - [React](#React)
 - [jQuery](#jQuery)
 - [PHP](#PHP)
@@ -268,7 +269,6 @@ https://github.com/cyrilbois/Front-End-Web-Development-Resources
 
 https://github.com/thedaviddias/Front-End-Checklist
 
-
 ## HTML5
 
 https://github.com/diegocard/awesome-html5 - A curated list of awesome HTML5 resources
@@ -310,6 +310,9 @@ https://aggregatedawesome.com/react-native
 https://aggregatedawesome.com/react
 
 https://aggregatedawesome.com/nodejs
+
+## Games
+https://project-awesome.org/leereilly/games
 
 ## React
 
@@ -751,6 +754,8 @@ Crie uma loja virtual completa e sem mensalidade - minestore (online)
 
 
 ## Diversos
+
+https://project-awesome.org/ - Curated list of awesome lists
 
 Lista com links de projetos open-source para varios níveis
 - https://github.com/camilatigre/listamaravilhosaopensource
