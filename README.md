@@ -108,6 +108,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+https://github.com/akitaonrails/awesome-linux
+
 https://github.com/jagracey/Awesome-Unicode - A curated list of delightful Unicode tidbits, packages and resources. 
 
 https://github.com/github/gitignore - A collection of useful .gitignore templates
