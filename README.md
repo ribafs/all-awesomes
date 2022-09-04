@@ -13,6 +13,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
+- [Livros](#LivrosFree)
 - [Vagas](#Vagas)
 - [Conversão](#Conversão)
 - [Ideias para Projetos](#Ideias)
@@ -37,6 +38,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Catálogo de profissionais](#catalogo)
 - [Bancos de dados de imagens](#bancos)
 - [Criação de Jogos Mobile](#Criação)
+
+## LivrosFree
+
+https://github.com/EbookFoundation/free-programming-books
 
 ## Vagas
 
