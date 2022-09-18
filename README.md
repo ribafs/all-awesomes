@@ -183,6 +183,8 @@ https://github.com/camilatigre/listamaravilhosaopensource
 
 ## Cursos Gratuitos e Pagos
 
+https://github.com/Kamilahsantos/conteudo-gratuito
+
 https://jornadadodev.com.br/cursos
 
 https://pt-br.classpert.com/
@@ -198,6 +200,8 @@ https://github.com/cyrilbois/awesome-api-tools
 https://github.com/public-apis/public-apis
 
 ## Segurança
+
+https://github.com/infoslack/awesome-web-hacking
 
 https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior referência em segurança na web
 
