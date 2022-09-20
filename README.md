@@ -111,7 +111,10 @@ https://www.freeprojectz.com/projects/php-project-ideas
 
 https://github.com/sindresorhus/awesome
 
+
 ## Diversos
+
+https://github.com/sindresorhus/awesome
 
 https://github.com/arthurspk/guiadevbrasil
 
