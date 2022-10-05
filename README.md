@@ -114,6 +114,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+https://github.com/fititnt/listamaravilhosaopensource
+
 https://github.com/sindresorhus/awesome
 
 https://github.com/arthurspk/guiadevbrasil
