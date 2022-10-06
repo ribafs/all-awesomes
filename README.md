@@ -41,6 +41,8 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## LivrosFree
 
+https://github.com/wilsonfreitas/online-books
+
 https://github.com/EbookFoundation/free-programming-books
 
 ## Vagas
