@@ -929,13 +929,6 @@ Curso POO Teoria #01a - O que é Programação Orientada a Objetos em 33 aulas (
 
 ## Cursos
 
-- https://www.asolucoesweb.com.br/curso/php-para-quem-entende-php
-- https://www.asolucoesweb.com.br/curso/pdo-para-quem-nao-sabe-pdo
-- https://www.asolucoesweb.com.br/curso/curso-ajax-com-php
-- https://www.asolucoesweb.com.br/curso/composer-para-iniciantes
-- https://www.asolucoesweb.com.br/curso/login-validacao-flash-messages
-- https://www.asolucoesweb.com.br/curso/mysql-linha-comando-php
-- https://www.asolucoesweb.com.br/curso/javascript-para-iniciantes
 Cursos em vídeo grátis
 - https://www.cursoemvideo.com
 
