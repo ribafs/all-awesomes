@@ -49,7 +49,9 @@ https://github.com/EbookFoundation/free-programming-books
 
 ## Vagas
 
-https://github.com/ribafs/empresas-php
+- https://github.com/especializati/empresas-que-usam-laravel-no-brasil
+
+- https://github.com/ribafs/empresas-php
 
 https://github.com/backend-br/vagas
 
@@ -67,11 +69,11 @@ https://github.com/topics/vagas-para-desenvolvedores
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
 
-## Ideias
+## Ideias para projetos de programação**
 
-https://github.com/florinpop17/app-ideas
+- https://github.com/IonicaBizau/made-in-brazil
 
-**Ideias para projetos de programação**
+- https://github.com/florinpop17/app-ideas
 
 https://itsourcecode.com/free-projects/php-project/php-projects-source-code-free-downloads/
 
@@ -121,6 +123,8 @@ https://github.com/sindresorhus/awesome
 
 
 ## Diversos
+
+- https://github.com/arthurspk/guiadevbrasil
 
 - https://github.com/lowlighter/metrics
 
