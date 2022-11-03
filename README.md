@@ -39,13 +39,17 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Bancos de dados de imagens](#bancos)
 - [Criação de Jogos Mobile](#Criação)
 
+
 ## LivrosFree
 
 https://github.com/wilsonfreitas/online-books
 
 https://github.com/EbookFoundation/free-programming-books
 
+
 ## Vagas
+
+https://github.com/ribafs/empresas-php
 
 https://github.com/backend-br/vagas
 
@@ -57,11 +61,15 @@ https://github.com/brasil-php/vagas/issues
 
 https://github.com/topics/vagas-para-desenvolvedores
 
+
 ## Conversão
 
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
+
 ## Ideias
+
+https://github.com/florinpop17/app-ideas
 
 **Ideias para projetos de programação**
 
@@ -114,9 +122,15 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
-https://github.com/fititnt/listamaravilhosaopensource
+- https://github.com/lowlighter/metrics
 
-https://github.com/sindresorhus/awesome
+- https://github.com/arimariojesus/Best-websites-a-programmer-should-visit
+
+- https://github.com/kamranahmedse/developer-roadmap
+
+- https://github.com/fititnt/listamaravilhosaopensource
+
+- https://github.com/sindresorhus/awesome
 
 https://github.com/arthurspk/guiadevbrasil
 
@@ -194,6 +208,7 @@ https://jornadadodev.com.br/cursos
 
 https://pt-br.classpert.com/
 
+
 ## API
 
 https://github.com/cyrilbois/Awesome-Api-Management-Tools
@@ -204,6 +219,7 @@ https://github.com/cyrilbois/awesome-api-tools
 
 https://github.com/public-apis/public-apis
 
+
 ## Segurança
 
 https://github.com/infoslack/awesome-web-hacking
@@ -212,7 +228,10 @@ https://cheatsheetseries.owasp.org/Glossary.html - Acho que a OWASP é a maior r
 
 https://github.com/cyrilbois/Security_list
 
+
 ## Laravel
+
+https://github.com/LaravelDaily/laravel-tips
 
 https://gist.github.com/msurguy/8590765 - List of open source projects made with Laravel
 
