@@ -49,6 +49,8 @@ https://github.com/EbookFoundation/free-programming-books
 
 ## Vagas
 
+- https://github.com/abraphp/CarreiraPHP
+
 - https://github.com/especializati/empresas-que-usam-laravel-no-brasil
 
 - https://github.com/ribafs/empresas-php
@@ -123,6 +125,10 @@ https://github.com/sindresorhus/awesome
 
 
 ## Diversos
+
+- https://github.com/helloroman/frontend-roadmap
+
+- https://ribafs.github.io/references/
 
 - https://github.com/arthurspk/guiadevbrasil
 
