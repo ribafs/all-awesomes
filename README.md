@@ -376,6 +376,8 @@ https://aggregatedawesome.com/jquery
 
 ## PHP
 
+https://github.com/skoro/awesome-php
+
 ### Tutoriais
 
 - https://www.php.net/manual/pt_BR/tutorial.php
