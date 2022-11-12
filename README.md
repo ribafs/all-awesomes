@@ -126,6 +126,8 @@ https://github.com/sindresorhus/awesome
 
 ## Diversos
 
+- https://github.com/denoone/awesome-deno
+
 - https://github.com/helloroman/frontend-roadmap
 
 - https://ribafs.github.io/references/
