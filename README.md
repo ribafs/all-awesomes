@@ -243,6 +243,8 @@ https://github.com/cyrilbois/Security_list
 
 ## Laravel
 
+- https://laraveldaily.com/packages - Melhores pacotes, mais de 100
+
 https://github.com/LaravelDaily/laravel-tips
 
 https://gist.github.com/msurguy/8590765 - List of open source projects made with Laravel
