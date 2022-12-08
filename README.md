@@ -13,6 +13,7 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
+- [Jogos](#Jogos)
 - [Livros](#LivrosFree)
 - [Vagas](#Vagas)
 - [Conversão](#Conversão)
@@ -39,6 +40,10 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 - [Bancos de dados de imagens](#bancos)
 - [Criação de Jogos Mobile](#Criacao)
 
+
+## Jogos - Criação
+
+- https://github.com/Raiper34/awesome-phaser
 
 ## LivrosFree
 
@@ -442,7 +447,7 @@ https://gyncursos.com.br/course/curso-de-php-7/
 
 https://www.learncafe.com/cursos-gratis (diversos cursos)
 
-Outros
+## Outros
 
 https://cpjur.com.br/gratis/
 
