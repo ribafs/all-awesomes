@@ -13,35 +13,35 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
-- [Jogos](#Jogos)
-- [Livros](#LivrosFree)
-- [Vagas](#Vagas)
-- [Conversão](#Conversão)
-- [Ideias para Projetos](#IdeiasProjetos)
-- [Diversos](#Diversos)
-- [Cursos Gratuitos e Pagos](#Cursos)
-- [API](#API)
-- [Segurança](#Segurança)
-- [Laravel](#Laravel)
-- [Frontend](#Frontend)
-- [HTML 5](#HTML5)
-- [CSS](#CSS)
-- [JavaScript](#JavaScript)
-- [Games](Games)
-- [React](#React)
-- [jQuery](#jQuery)
-- [PHP](#PHP)
-- [Padrões de Projeto](#padroes)
-- [SQL - MySQL e PostgreSQL](#sql)
-- [CakePHP](#CakePHP)
-- [Docker](#Docker)
-- [Tools](#Tools)
-- [Catálogo de profissionais](#catalogo)
-- [Bancos de dados de imagens](#bancos)
-- [Criação de Jogos Mobile](#Criacao)
+- ## <a href="#jogos">Jogos</a>
+- Livros Free
+- Vagas
+- Conversão
+- Ideias para Projetos
+- Diversos
+- Cursos Gratuitos e Pagos
+- API
+- Segurança
+- Laravel
+- Frontend
+- HTML 5
+- CSS
+- JavaScript
+- React
+- jQuery
+- PHP
+- Padrões de Projeto
+- SQL - MySQL e PostgreSQL
+- CakePHP
+- Docker
+- Tools
+- Catálogo de profissionais
+- Bancos de dados de imagens
+- Criação de Jogos Mobile
 
 
 ## Jogos - Criação
+<section id="jogos">
 
 - https://github.com/Raiper34/awesome-phaser
 
