@@ -76,7 +76,7 @@ https://github.com/topics/vagas-para-desenvolvedores
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
 
-## Ideias para projetos de programação**
+##Ideias para projetos de programação**
 
 - https://github.com/IonicaBizau/made-in-brazil
 
