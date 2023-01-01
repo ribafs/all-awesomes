@@ -13,11 +13,11 @@ Se você está sem ideia de como criar um projeto gaste um tempinho navegando en
 
 ## Índice
 
-- ## <a href="#jogos">Jogos</a>
+- <a href="#jogos">Jogos</a>
 - Livros Free
 - Vagas
 - Conversão
-- Ideias para Projetos
+- <a href="#ideias">Ideias para Projetos</a>
 - Diversos
 - Cursos Gratuitos e Pagos
 - API
@@ -76,7 +76,8 @@ https://github.com/topics/vagas-para-desenvolvedores
 https://sqlizer.io/csv-to-mysql/#/ - Converte CSV para SQL (MySQL, PostgreSQL e SQL Server)
 
 
-##IdeiasProjetos
+## Ideias para Projetos
+<section id="ideias">
 
 Ideias para projetos de programação**
 
