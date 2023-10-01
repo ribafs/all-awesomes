@@ -250,6 +250,8 @@ https://github.com/cyrilbois/Security_list
 
 ## Laravel
 
+-https://github.com/benjamincrozat/Laravel-Open-Source-Projects
+
 - https://github.com/jonaselan/laravel-best-practices
 
 - https://laraveldaily.com/packages - Melhores pacotes, mais de 100
