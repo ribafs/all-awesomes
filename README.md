@@ -249,6 +249,7 @@ https://github.com/cyrilbois/Security_list
 
 
 ## Laravel
+-https://github.com/livewire/awesome-tall-stack
 
 -https://benjamincrozat.com/laravel-versions
 
